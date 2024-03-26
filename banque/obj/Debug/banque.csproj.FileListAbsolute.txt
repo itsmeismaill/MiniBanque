@@ -1,0 +1,11 @@
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\bin\Debug\banque.exe.config
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\bin\Debug\banque.exe
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\bin\Debug\banque.pdb
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\obj\Debug\banque.csproj.AssemblyReference.cache
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\obj\Debug\banque.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\obj\Debug\banque.Properties.Resources.resources
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\obj\Debug\banque.csproj.GenerateResource.cache
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\obj\Debug\banque.csproj.CoreCompileInputs.cache
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\obj\Debug\banque.exe
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\obj\Debug\banque.pdb
+C:\Users\pc\OneDrive\Documents\Visual Studio 2022\Projects\banque\banque\obj\Debug\banque.Form1.resources
